@@ -77,6 +77,12 @@ Unlike most marine mammals (such as seals or whales), sea otters do not have a l
 
 This text has been taken from www.wikipedia.org.
 
+<br>
+<br>
+<br>
+
+![Ott-Zen](ott_zen.png "otter-zentrum-logo")
+
 Otterzentrum Hankensbuettel 
 <https://otterzentrum.de/otter-zentrum.html>.
 
