@@ -88,7 +88,13 @@ Otterzentrum Hankensbuettel
 
 Want to know about cats' world? Check the internal git page of [Julien](../../../julien).
 
-# Checkboxes
-- [x] buy groceries
-- [ ] cook the lasagne
-- [ ] eating
+# Fixed Checkboxes
+- [x] Eurasian Otter
+- [x] Sea otter
+- [x] North American River Otter
+
+# Table
+
+| Real Name | Alan | Robert | Carl |
+| ----------| ------|--------|------|
+| Nickname  | Al    | Bob    | Charlie |
