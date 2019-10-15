@@ -81,7 +81,7 @@ This text has been taken from www.wikipedia.org.
 <br>
 <br>
 
-![Ott-Zen](ott_zen.png "otter-zentrum-logo")
+![ott_zen](ott_zen.png "otter-zentrum-logo")
 
 Otterzentrum Hankensbuettel 
 <https://otterzentrum.de/otter-zentrum.html>.
