@@ -32,8 +32,3 @@ The 13 extant otter species are all:
 * [semiaquatic][semaqua]
 * [aquatic][aqua]
 * [marine][mar]
-
-                                                                  [ Read 76 lines ]
-^G Get Help     ^O Write Out    ^W Where Is     ^K Cut Text     ^J Justify      ^C Cur Pos      M-U Undo        M-A Mark Text   M-] To Bracket
-^X Exit         ^R Read File    ^\ Replace      ^U Uncut Text   ^T To Spell     ^_ Go To Line   M-E Redo        M-6 Copy Text   M-W WhereIs Next
-
