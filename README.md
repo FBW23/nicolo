@@ -41,9 +41,9 @@ Several otter species live in cold waters and have high metabolic rates to help 
 
 ## Species
 
-1. [European Otter](#euro-ott-anchor)
-2. North American River Otter
-3. Sea Otter
+1. [European Otter](#european-otter)
+2. [North American River Otter](#North-American-River-Otter)
+3. [Sea Otter](#Sea-otter)
 
 ## European Otter
 
