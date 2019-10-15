@@ -84,7 +84,9 @@ This text has been taken from www.wikipedia.org.
 ![ott_zen](images/ott_zen.png "otter-zentrum-logo")
 
 Otterzentrum Hankensbuettel 
-<https://otterzentrum.de/otter-zentrum.html>.
+<https://otterzentrum.de/otter-zentrum.html> - guided tours for families
+
+:family_man_woman_boy_boy:
 
 Want to know about cats' world? Check the internal git page of [Julien](../../../julien).
 
