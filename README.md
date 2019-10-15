@@ -75,7 +75,9 @@ Unlike most marine mammals (such as seals or whales), sea otters do not have a l
 
 [mar]: https://en.wikipedia.org/wiki/Marine_ecosystem
 
-This text has been taken from www.wikipedia.org
+This text has been taken from www.wikipedia.org.
 
 Otterzentrum Hankensbuettel 
-<https://otterzentrum.de/otter-zentrum.html>
+<https://otterzentrum.de/otter-zentrum.html>.
+
+Want to know about cats' world? Check the git of [Julien](../../../julien).
