@@ -75,11 +75,14 @@ Unlike most marine mammals (such as seals or whales), sea otters do not have a l
 
 [mar]: https://en.wikipedia.org/wiki/Marine_ecosystem
 
-This text has been taken from www.wikipedia.org.
+<br>
+<br>
+<br>
 
-<br>
-<br>
-<br>
+
+# Github Flavored Markdowns
+
+This text has been taken from www.wikipedia.org.
 
 ![ott_zen](images/ott_zen.png "otter-zentrum-logo")
 
