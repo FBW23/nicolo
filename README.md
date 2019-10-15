@@ -41,7 +41,7 @@ Several otter species live in cold waters and have high metabolic rates to help 
 
 ## Species
 
-1. European Otter
+1. [European Otter](#euro-ott-anchor)
 2. North American River Otter
 3. Sea Otter
 
@@ -81,3 +81,4 @@ Otterzentrum Hankensbuettel
 <https://otterzentrum.de/otter-zentrum.html>.
 
 Want to know about cats' world? Check the internal git page of [Julien](../../../julien).
+
