@@ -98,6 +98,8 @@ Want to know about cats' world? Check the internal git page of [Julien](../../..
 
 # Table
 
-| Real Name | Alan | Robert | Carl |
+| Real Name | Alice | Robert | Carl |
 | ----------| ------|--------|------|
 | Nickname  | Al    | Bob    | Charlie |
+| Phone Number | 3456 | 435356 | 423423423|
+| Hometown | Canada | America | United Kingdom |
