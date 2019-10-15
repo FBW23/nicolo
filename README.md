@@ -74,3 +74,8 @@ Unlike most marine mammals (such as seals or whales), sea otters do not have a l
 [aqua]: https://en.wikipedia.org/wiki/Aquatic_animal
 
 [mar]: https://en.wikipedia.org/wiki/Marine_ecosystem
+
+This text has been taken from www.wikipedia.org
+
+Otterzentrum Hankensbuettel 
+<https://otterzentrum.de/otter-zentrum.html>
