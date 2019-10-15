@@ -80,4 +80,4 @@ This text has been taken from www.wikipedia.org.
 Otterzentrum Hankensbuettel 
 <https://otterzentrum.de/otter-zentrum.html>.
 
-Want to know about cats' world? Check the git of [Julien](../../../julien).
+Want to know about cats' world? Check the internal git page of [Julien](../../../julien).
